@@ -30,3 +30,7 @@ openpyxl을 이용하여 엑셀 만들기(시트 추가, 데이터 삽입)
 selenium의 webdriver를 이용하여 네이버 쇼핑 품목 name,price,link 가져오기   
 \+ 무한 스크롤   
 \+ csv로 파일 생성,데이터 삽입,파일 닫기   
+
+
+         
+참고 사이트 [Inflean](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88)
